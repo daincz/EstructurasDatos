@@ -1,7 +1,7 @@
 # DATA STRUCTURES COURSE (1656)
-## Professor: Diana Cruz
-## Institution: UART - Unidad Académica Rio Turbio
-## University: UNPA - Universidad Nacional de la Patagonia Austral
+- Professor: Diana Cruz
+- Institution: UART (Unidad Académica Rio Turbio)
+- University: UNPA (Universidad Nacional de la Patagonia Austral)
 
 This repository stores various software artifacts about different developed topics in **Data Structures**.
 
