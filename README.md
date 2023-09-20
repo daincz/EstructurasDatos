@@ -5,7 +5,7 @@
 
 This repository stores various software artifacts about different developed topics in **Data Structures**.
 
-Lessons:
+Program:
 
 Unit 1: Analysis of the efficiency
 
